@@ -17,6 +17,7 @@
 쉽고 편리한 Kiosk 및 PC Pos
 
 Kiosk Web Application : 카페에서 사용하는 Kiosk(키오스크)를 휴대전화로 예약 주문이 가능하도록 제공하는 Web Application(웹 어플리케이션)입니다.
+
 PC Pos : 하나의 프로그램으로 여러 매장을 등록/관리 할 수 있는 프로그램입니다.
 
 ## 시작 가이드
