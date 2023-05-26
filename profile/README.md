@@ -23,6 +23,9 @@ PC Pos : 하나의 프로그램으로 여러 매장을 등록/관리 할 수 있
 ### Requirements
 For building and running the application you need:
 
+- [Java 8](https://www.java.com/ko/download/ie_manual.jsp?locale=ko)
+- [JDK 17.0.6](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [Gradle 7.6.1](https://gradle.org/next-steps/?version=7.6.1&format=bin)
 - [Node.js 18.15.0](https://nodejs.org/ca/blog/release/v18.15.0/)
 - [Npm 9.5.0](https://www.npmjs.com/package/npm/v/9.5.0)
 
@@ -68,3 +71,4 @@ $ npm run
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=Google%20Meet&logoColor=white)
+
