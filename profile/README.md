@@ -1,6 +1,7 @@
 # Koreait 팀프로젝트
 
 ## Custom Kiosk for Cafe
+> 개발기간: 2023.04~ 2023.05
 
 ## 개발팀 소개
 | 이름  |  github아이디   | 역할 |
@@ -26,18 +27,19 @@ For building and running the application you need:
 - [Npm 9.5.0](https://www.npmjs.com/package/npm/v/9.5.0)
 
 ### installation
-``` bash
-이 사이에 git bash 코드를 넣어주세요
-```
 
 #### backend
-```
-이 사이에 코드를 넣어주세요
+```bash
+$ git clone https://github.com/KioskForCafe/back-project.git
+$ git pull origin dev
 ```
 
 #### frontend
-```
-이 사이에 코드를 넣어주세요
+```bash
+$ git clone https://github.com/KioskForCafe/front-project.git
+$ git pull origin dev
+$ npm i
+$ npm run
 ```
 
 ---
@@ -53,13 +55,16 @@ For building and running the application you need:
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)    
 
 ### Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=MUI&logoColor=white)
-![node.js](https://simpleicons.org/icons/nodedotjs.svg&logoColor=339933)
+![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ### Communication
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=Google%20Meet&logoColor=white)
-
