@@ -20,6 +20,16 @@ Kiosk Web Application : 카페에서 사용하는 Kiosk(키오스크)를 휴대�
 
 PC Pos : 하나의 프로그램으로 여러 매장을 등록/관리 할 수 있는 프로그램입니다.
 
+## 저장소
+
+### Front-End
+[PC Pos (https://github.com/KioskForCafe/front-project)](https://github.com/KioskForCafe/front-project)
+
+[Kiosk (https://github.com/KioskForCafe/front-kiosk)](https://github.com/KioskForCafe/front-kiosk)
+
+### Back-End
+[Back End (https://github.com/KioskForCafe/back-project)](https://github.com/KioskForCafe/back-project)
+
 ## 시작 가이드
 ### Requirements
 For building and running the application you need:
