@@ -1,6 +1,6 @@
 # Koreait 팀프로젝트
 
-## Custom Kiosk for Cafe
+## EasyOrder
 > 개발기간: 2023.04~ 2023.05
 
 ## 개발팀 소개
