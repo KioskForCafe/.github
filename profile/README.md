@@ -6,10 +6,10 @@
 ## 개발팀 소개
 | 이름  |  github아이디   | 역할 |
 | :---------: | :------------: | :---------------------: |
-|  유호성 |  [YuHoSeong](https://github.com/YuHoSeong)|  BackEnd, FrontEnd(PC Pos) |
-|  정혜성 |  [comet7406](https://github.com/comet7406)|  BackEnd, FrontEnd(Kiosk) |
-|  김선우 |  [susu144178](https://github.com/susu144178)|  BackEnd, FrontEnd(Kiosk) |
-|  김가영 |  [Gayeong98](https://github.com/Gayeong98)|  BackEnd, FrontEnd(PC Pos) |
+|  유호성 |  [YuHoSeong](https://github.com/YuHoSeong)|  BackEnd, FrontEnd |
+|  정혜성 |  [comet7406](https://github.com/comet7406)|  BackEnd, FrontEnd |
+|  김선우 |  [susu144178](https://github.com/susu144178)|  BackEnd, FrontEnd |
+|  김가영 |  [Gayeong98](https://github.com/Gayeong98)|  BackEnd, FrontEnd |
 
 
 ## 프로젝트 소개
@@ -24,8 +24,6 @@ PC Pos : 하나의 프로그램으로 여러 매장을 등록/관리 할 수 있
 
 ### Front-End
 [PC Pos (https://github.com/KioskForCafe/front-project)](https://github.com/KioskForCafe/front-project)
-
-[Kiosk (https://github.com/KioskForCafe/front-kiosk)](https://github.com/KioskForCafe/front-kiosk)
 
 ### Back-End
 [Back End (https://github.com/KioskForCafe/back-project)](https://github.com/KioskForCafe/back-project)
